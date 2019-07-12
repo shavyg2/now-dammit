@@ -1,0 +1,15 @@
+{
+    "$schema": "./src/schema.json",
+    "port":8080,
+    "servers":[{
+        "path":"example/api",
+        "cmd":"yarn run dev"
+    },{
+        "path":"example/client",
+        "cmd":"yarn run start"
+    }],
+    "rewrite":[
+        "/api(.*)/ /$1 example/api",
+        "/\// / example/client"
+    ]
+}

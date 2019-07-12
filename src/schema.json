@@ -1,0 +1,73 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "definitions": {
+        "DammitConfig": {
+            "type": "object",
+            "properties": {
+                "$schema": {
+                    "type": "string"
+                },
+                "port": {
+                    "type": "number"
+                },
+                "servers": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/ServerOptions"
+                    }
+                },
+                "rewrite": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "common": {
+                    "$ref": "#/definitions/SharedLib"
+                }
+            },
+            "required": [
+                "port",
+                "servers",
+                "rewrite"
+            ],
+            "additionalProperties": false
+        },
+        "ServerOptions": {
+            "type": "object",
+            "properties": {
+                "path": {
+                    "type": "string"
+                },
+                "cmd": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "path",
+                "cmd"
+            ],
+            "additionalProperties": false
+        },
+        "SharedLib": {
+            "type": "object",
+            "properties": {
+                "source": {
+                    "type": "string"
+                },
+                "lib": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            },
+            "required": [
+                "source",
+                "lib"
+            ],
+            "additionalProperties": false
+        }
+    },
+    "$ref": "#/definitions/DammitConfig"
+}
