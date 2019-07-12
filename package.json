@@ -2,7 +2,7 @@
   "name": "dammit",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "dist/bin/now-dammit.js",
   "scripts": {
     "smile": "concurrently \"yarn run build\" \"yarn run update\" ",
     "test": "echo \"Error: no test specified\" && exit 1",
