@@ -13,7 +13,7 @@ export function BootServer(root:string, app, config: DammitConfig, refs: ServerM
     });
 
 
-    BootLibCopy(config);
+    
 
     app.all("*", function (req, res, next) {
         let url = req.url;
@@ -32,6 +32,9 @@ export function BootServer(root:string, app, config: DammitConfig, refs: ServerM
     });
     const server = app.listen(process.env.port || config.port || getport(), () => {
         console.log(`server running on http://localhost:${server.address().port}`);
+        refs.forEach(ref=>{
+            console.log(`${ref.applicationDirectory}: ${ref.url}`);
+        })
     });
 }
 

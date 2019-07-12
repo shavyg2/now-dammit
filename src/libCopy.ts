@@ -6,8 +6,8 @@ var chokidar = require("chokidar");
 
 export default function (source, target, opts, notify:(...any:any[])=>any=()=>void 0) {
   opts = Object.assign(opts || {}, {
-    "watch": false,
-    "delete": false,
+    "watch": true,
+    "delete": true,
     "depth": Infinity
   });
 
@@ -17,9 +17,11 @@ export default function (source, target, opts, notify:(...any:any[])=>any=()=>vo
   }
 
   // Initial mirror
+  console.log(`copying ${source} to ${target}`)
   var mirrored = mirror(source, target, opts, notify, 0);
 
   if (!mirrored) {
+    console.log("Failed to copy")
     return false;
   }
 

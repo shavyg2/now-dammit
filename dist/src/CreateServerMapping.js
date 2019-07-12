@@ -9,7 +9,7 @@ var SpawnServer_1 = require("./SpawnServer");
 function CreateServerMapping(root, config) {
     return config.servers.map(function (server) {
         var applicationDirectory = path_1.default.join(root, server.path);
-        var port = get_port_sync_1.default();
+        var port = server.port || get_port_sync_1.default();
         var url = "http://localhost:" + port;
         var thread = SpawnServer_1.SpawnServer(server, applicationDirectory, port);
         process.on("beforeExit", function () {

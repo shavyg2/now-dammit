@@ -11,5 +11,29 @@ export function SpawnServer(server: ServerOptions, applicationDirectory: string,
             port
         }
     });
+
+    process.on('beforeExit',()=>{
+        if(!thread.killed){
+            thread.kill();
+        }
+    })
+
+    process.on('exit',()=>{
+        if(!thread.killed){
+            thread.kill();
+        }
+    })
+    process.on('disconnect',()=>{
+        if(!thread.killed){
+            thread.kill();
+        }
+    })
+
+    thread.on("exit",(code)=>{
+        process.exit(code);
+    })
+    thread.on("beforeExit",(code)=>{
+        process.exit(code);
+    })
     return thread;
 }

@@ -41,6 +41,9 @@
                 },
                 "cmd": {
                     "type": "string"
+                },
+                "port": {
+                    "type": "number"
                 }
             },
             "required": [

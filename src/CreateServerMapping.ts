@@ -7,7 +7,7 @@ import { SpawnServer } from "./SpawnServer";
 export function CreateServerMapping(root,config: DammitConfig): ServerMapping[] {
     return config.servers.map(server => {
         let applicationDirectory = path.join(root, server.path);
-        let port = getport();
+        let port = server.port || getport();
         let url = `http://localhost:${port}`;
         let thread = SpawnServer(server, applicationDirectory, port);
         process.on("beforeExit", () => {

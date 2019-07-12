@@ -19,6 +19,27 @@ function SpawnServer(server, applicationDirectory, port) {
             port: port
         }
     });
+    process.on('beforeExit', function () {
+        if (!thread.killed) {
+            thread.kill();
+        }
+    });
+    process.on('exit', function () {
+        if (!thread.killed) {
+            thread.kill();
+        }
+    });
+    process.on('disconnect', function () {
+        if (!thread.killed) {
+            thread.kill();
+        }
+    });
+    thread.on("exit", function (code) {
+        process.exit(code);
+    });
+    thread.on("beforeExit", function (code) {
+        process.exit(code);
+    });
     return thread;
 }
 exports.SpawnServer = SpawnServer;

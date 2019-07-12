@@ -338,8 +338,8 @@
         "signature": "a6742e25ac12860727c22a379707e050a126c48c4dd98ddd795a3a33dd0a63c7"
       },
       "d:/dev/dammit/src/serveroptions.ts": {
-        "version": "79aa91ba1e6526de74562be69eb746a9573d808fc3430d034bb7604919e56bc4",
-        "signature": "79aa91ba1e6526de74562be69eb746a9573d808fc3430d034bb7604919e56bc4"
+        "version": "85a9b119e2a1f6688dfdc25bbde0aca20b6057a6b8d032ee5ddbdd1eef39a31c",
+        "signature": "cad32446e602959540617aa2365f94c13ab1bd38f62404a4ba91920b0df34d6d"
       },
       "d:/dev/dammit/src/sharedlib.ts": {
         "version": "922e1e2856715fb2230f21f0ea26d378d73a5090c2f49dbd23e5c508698d1083",
@@ -370,15 +370,15 @@
         "signature": "c24ee31f2b9aeb334a51815d0c4de67d8a3239f6d940efca4c1763b31cdd78fe"
       },
       "d:/dev/dammit/src/libcopy.ts": {
-        "version": "2a8acac1e18f34d9bb3f54570eb540a66cbf358beecac2c7e67f4c6506dde4cd",
+        "version": "c7e02b8d51a383feb35c55ef0cfffad0e2f03d12a3bd099f2b594b31ce87e38b",
         "signature": "b93264317d12ba7e9d156179fa84c5dce2afca92c764b1e36e24b33864cfd387"
       },
       "d:/dev/dammit/src/bootlibcopy.ts": {
-        "version": "a4d00c359f96b69920d8201c992e96d7f5d8d6d98ac94152c7fa40d9169e4c71",
+        "version": "905ec1f8d46ec5a157542cf3344994a78925b8bb874c325bd92575b7ca1dd526",
         "signature": "2b278376753e6fbded210d627347f13d2281f81ab3d6999fbc22c937d607453e"
       },
       "d:/dev/dammit/src/bootserver.ts": {
-        "version": "e1d76656d8ca4948f038d8db9de95ed6e593b8850b3371788a593aefe86227ef",
+        "version": "d1f552c64268126713269a9a6bc1b4aaec31f67d01a454b2ba2072e3c0a88d5a",
         "signature": "e7dc52822000e9b565df209fe591c00097433d11b1a02bac1768cca18a2c0307"
       },
       "d:/dev/dammit/node_modules/@types/shell-quote/index.d.ts": {
@@ -386,15 +386,15 @@
         "signature": "19cabdf0db9fbae32ad2ddca1b36c9265702091a2c1247846d0f63942a1806a5"
       },
       "d:/dev/dammit/src/spawnserver.ts": {
-        "version": "f19f9d932cdf8839b6d808a28a44bb281a93f897e303ad56355709a255e1a107",
+        "version": "59d2ce2f38730b902af8e51fdab334591fead2ae71b0bac8ad36211b9bf3ac19",
         "signature": "d46f3a865e95f35df45dd730e9987e5b2ec9d9270374e81c0fc36ffe48d92621"
       },
       "d:/dev/dammit/src/createservermapping.ts": {
-        "version": "d874fe4d866526b05c150461d6841c802c3fd02ac4ec28f84d368792c0e5935f",
+        "version": "854f3ef7c3b5ba5367266ebd7d44b676d0fbc65fdc20437fa715e1205d7a3c3f",
         "signature": "ecdb52712c9c6ae4bb9e41d1e91b3e12f43e72dc75d4e3bbc4b6f4c3da1a1e3a"
       },
       "d:/dev/dammit/src/main.ts": {
-        "version": "b43a30efc33009f730882a772aeafd69c859e2fac8922ff24783cba8c8fea0d5",
+        "version": "8ce538895adc4224a098820be62ad936547a0e22b0de829756c87bc5a656eb7f",
         "signature": "000ff4fd4f9aa63c3957ea1f548c5e2193b15fb9b369cfd865e30f03f3ba2def"
       },
       "d:/dev/dammit/bin/now-dammit.ts": {
@@ -417,6 +417,7 @@
       "tsBuildInfoFile": "D:/dev/dammit/dist/tsinfo.info",
       "strict": false,
       "esModuleInterop": true,
+      "watch": true,
       "configFilePath": "D:/dev/dammit/tsconfig.json"
     },
     "referencedMap": {
@@ -944,6 +945,7 @@
         "d:/dev/dammit/src/dammitconfig.ts",
         "d:/dev/dammit/src/bootserver.ts",
         "d:/dev/dammit/src/createservermapping.ts",
+        "d:/dev/dammit/src/bootlibcopy.ts",
         "d:/dev/dammit/node_modules/@types/node/util.d.ts",
         "d:/dev/dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1534,11 +1536,11 @@
       "d:/dev/dammit/src/bootlibcopy.ts",
       "d:/dev/dammit/src/bootserver.ts",
       "d:/dev/dammit/node_modules/@types/shell-quote/index.d.ts",
-      "d:/dev/dammit/src/spawnserver.ts",
       "d:/dev/dammit/src/createservermapping.ts",
       "d:/dev/dammit/src/main.ts",
       "d:/dev/dammit/bin/now-dammit.ts",
-      "d:/dev/dammit/node_modules/@types/url-join/index.d.ts"
+      "d:/dev/dammit/node_modules/@types/url-join/index.d.ts",
+      "d:/dev/dammit/src/spawnserver.ts"
     ]
   },
   "version": "3.5.3"

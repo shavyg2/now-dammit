@@ -15,11 +15,13 @@ var path_1 = __importDefault(require("path"));
 var express_1 = __importDefault(require("express"));
 var BootServer_1 = require("./BootServer");
 var CreateServerMapping_1 = require("./CreateServerMapping");
+var BootLibCopy_1 = require("./BootLibCopy");
 function Main() {
     var root = pkg.sync();
     var dammitPath = path_1.default.join(root, "dammit.json");
     var config = require(dammitPath);
     var serverMapping = CreateServerMapping_1.CreateServerMapping(root, config);
+    BootLibCopy_1.BootLibCopy(config);
     var app = express_1.default();
     BootServer_1.BootServer(root, app, config, serverMapping);
 }

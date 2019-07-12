@@ -6,8 +6,8 @@ var chokidar = require("chokidar");
 function default_1(source, target, opts, notify) {
     if (notify === void 0) { notify = function () { return void 0; }; }
     opts = Object.assign(opts || {}, {
-        "watch": false,
-        "delete": false,
+        "watch": true,
+        "delete": true,
         "depth": Infinity
     });
     if (typeof opts.depth !== "number" || isNaN(opts.depth)) {
@@ -15,8 +15,10 @@ function default_1(source, target, opts, notify) {
         return false;
     }
     // Initial mirror
+    console.log("copying " + source + " to " + target);
     var mirrored = mirror(source, target, opts, notify, 0);
     if (!mirrored) {
+        console.log("Failed to copy");
         return false;
     }
     if (opts.watch) {
@@ -128,6 +130,7 @@ function deleteExtra(fileordir, opts, notify) {
 function copy(source, target, notify) {
     notify("copy", [source, target]);
     try {
+        console.log(source,target);
         fs.copySync(source, target);
         return true;
     }
