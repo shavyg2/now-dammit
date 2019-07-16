@@ -1,6 +1,6 @@
 {
   "name": "now-dammit",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "dist/bin/now-dammit.js",
   "scripts": {
     "smile": "concurrently \"yarn run build\" \"yarn run update\" ",
