@@ -11,11 +11,15 @@ function CreateServerMapping(root, config) {
         var applicationDirectory = path_1.default.join(root, server.path);
         var port = server.port || get_port_sync_1.default();
         var url = "http://localhost:" + port;
-        var thread = SpawnServer_1.SpawnServer(server, applicationDirectory, port);
-        process.on("beforeExit", function () {
-            if (thread.killed)
-                thread.kill();
-        });
+        var threadRef = { thread: null };
+        SpawnServer_1.SpawnServer(server, applicationDirectory, port, threadRef);
+        var killProcess = function (code) {
+            if (code === void 0) { code = 0; }
+            if (!threadRef.thread.killed) {
+                threadRef.thread.kill();
+            }
+        };
+        process.on("beforeExit", killProcess);
         return {
             applicationDirectory: applicationDirectory,
             port: port,

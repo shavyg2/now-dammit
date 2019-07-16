@@ -130,7 +130,6 @@ function deleteExtra(fileordir, opts, notify) {
 function copy(source, target, notify) {
     notify("copy", [source, target]);
     try {
-        console.log(source,target);
         fs.copySync(source, target);
         return true;
     }

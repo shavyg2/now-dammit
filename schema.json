@@ -24,6 +24,12 @@
                 },
                 "common": {
                     "$ref": "#/definitions/SharedLib"
+                },
+                "watch": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/WatchCommand"
+                    }
                 }
             },
             "required": [
@@ -44,11 +50,33 @@
                 },
                 "port": {
                     "type": "number"
+                },
+                "watch": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/WatchConfig"
+                    }
                 }
             },
             "required": [
                 "path",
                 "cmd"
+            ],
+            "additionalProperties": false
+        },
+        "WatchConfig": {
+            "type": "object",
+            "properties": {
+                "path": {
+                    "type": "string"
+                },
+                "test": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "path",
+                "test"
             ],
             "additionalProperties": false
         },
@@ -68,6 +96,32 @@
             "required": [
                 "source",
                 "lib"
+            ],
+            "additionalProperties": false
+        },
+        "WatchCommand": {
+            "type": "object",
+            "properties": {
+                "path": {
+                    "type": "string"
+                },
+                "test": {
+                    "type": "string"
+                },
+                "command": {
+                    "type": "string"
+                },
+                "cwd": {
+                    "type": "string"
+                },
+                "throttle": {
+                    "type": "number"
+                }
+            },
+            "required": [
+                "path",
+                "test",
+                "command"
             ],
             "additionalProperties": false
         }
