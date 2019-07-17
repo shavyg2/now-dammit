@@ -68,19 +68,22 @@ function SpawnServer(server, applicationDirectory, port, threadRef) {
                     }
                     _b.label = 1;
                 case 1:
-                    if (!(status === 'open')) return [3 /*break*/, 3];
-                    status = util_1.default.promisify(portscanner_1.default.checkPortStatus.bind(portscanner_1.default))(port, '127.0.0.1');
+                    if (!(status === 'open')) return [3 /*break*/, 4];
+                    return [4 /*yield*/, util_1.default.promisify(portscanner_1.default.checkPortStatus.bind(portscanner_1.default))(port, '127.0.0.1')];
+                case 2:
+                    status = _b.sent();
+                    console.log(status);
                     if (status === "closed") {
-                        return [3 /*break*/, 3];
+                        return [3 /*break*/, 4];
                     }
                     return [4 /*yield*/, new Promise(function (r) {
                             setTimeout(r, 5000);
                         })];
-                case 2:
-                    _b.sent();
-                    console.log("waiting for port");
-                    return [3 /*break*/, 1];
                 case 3:
+                    _b.sent();
+                    console.log("waiting for port " + port);
+                    return [3 /*break*/, 1];
+                case 4:
                     thread = threadRef.thread = child.spawn(command, args, {
                         cwd: applicationDirectory,
                         stdio: "inherit",
@@ -126,7 +129,8 @@ function SpawnServer(server, applicationDirectory, port, threadRef) {
                             thread.kill();
                         }
                     });
-                    thread.on("error", function () {
+                    thread.on("error", function (error) {
+                        console.log(error);
                         process.exit(1);
                     });
                     return [2 /*return*/, { thread: thread }];

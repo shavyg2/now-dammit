@@ -15,17 +15,18 @@ export async function SpawnServer(server: ServerOptions, applicationDirectory: s
     let status = "open";
 
     if(threadRef.thread && !threadRef.thread.killed){
-        threadRef.thread.kill();
+        threadRef.thread.kill("SIGINT");
     }
     while(status==='open'){
-        status = util.promisify(waitForPort.checkPortStatus.bind(waitForPort))(port,'127.0.0.1')
+        status = await util.promisify(waitForPort.checkPortStatus.bind(waitForPort))(port,'127.0.0.1')
+        console.log(status);
         if(status==="closed"){
             break;
         }
         await new Promise(r=>{
-            setTimeout(r,5000)
+            setTimeout(r,5000);
         })
-        console.log("waiting for port");
+        console.log(`waiting for port ${port}`);
     }
     let thread = threadRef.thread = child.spawn(command, args, {
         cwd: applicationDirectory,
@@ -82,7 +83,8 @@ export async function SpawnServer(server: ServerOptions, applicationDirectory: s
     })
 
 
-    thread.on("error",()=>{
+    thread.on("error",(error)=>{
+        console.log(error);
         process.exit(1);
     })
 

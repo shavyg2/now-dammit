@@ -15,10 +15,12 @@ function CreateServerMapping(root, config) {
         SpawnServer_1.SpawnServer(server, applicationDirectory, port, threadRef);
         var killProcess = function (code) {
             if (code === void 0) { code = 0; }
-            if (!threadRef.thread.killed) {
-                threadRef.thread.kill();
+            if (threadRef.thread && !threadRef.thread.killed) {
+                console.log("killing " + server.path);
+                threadRef.thread.kill("SIGINT");
             }
         };
+        process.on("exit", killProcess);
         process.on("beforeExit", killProcess);
         return {
             applicationDirectory: applicationDirectory,
