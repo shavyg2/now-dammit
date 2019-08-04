@@ -1077,6 +1077,14 @@
         "version": "9be58631ba9dfd31b71dadd4d77dd0c9e3d3f5f7969a24ad773a40594759eb71",
         "signature": "62f7e13204b7caa68a4c44c410b1c11db231ef463a14b831657f9841cafa35f2"
       },
+      "c:/dev/now-dammit/node_modules/@types/jest-diff/index.d.ts": {
+        "version": "6ecb326999da47034eff85653423767152858fbb7acf0433f7603c9abf1e3f06",
+        "signature": "6ecb326999da47034eff85653423767152858fbb7acf0433f7603c9abf1e3f06"
+      },
+      "c:/dev/now-dammit/node_modules/@types/jest/index.d.ts": {
+        "version": "71068d58b3d485fe2fcd53a3b18d66bd9b9dc1ee5e90968cd27f6e468202833f",
+        "signature": "71068d58b3d485fe2fcd53a3b18d66bd9b9dc1ee5e90968cd27f6e468202833f"
+      },
       "c:/dev/now-dammit/node_modules/@types/url-join/index.d.ts": {
         "version": "316b72d88430ef387c7ce7fd9ae20f7eb9c298d801ce333c51816daf846b1ea4",
         "signature": "316b72d88430ef387c7ce7fd9ae20f7eb9c298d801ce333c51816daf846b1ea4"
@@ -1093,7 +1101,6 @@
       "tsBuildInfoFile": "C:/dev/now-dammit/dist/tsinfo.info",
       "strict": false,
       "esModuleInterop": true,
-      "watch": true,
       "configFilePath": "C:/dev/now-dammit/tsconfig.json"
     },
     "referencedMap": {
@@ -2783,6 +2790,15 @@
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "c:/dev/now-dammit/node_modules/@types/jest-diff/index.d.ts": [
+        "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
+        "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/dev/now-dammit/node_modules/@types/jest/index.d.ts": [
+        "c:/dev/now-dammit/node_modules/@types/jest-diff/index.d.ts",
+        "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
+        "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "c:/dev/now-dammit/node_modules/@types/url-join/index.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
@@ -4406,6 +4422,15 @@
       "c:/dev/now-dammit/node_modules/@types/url-join/index.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/dev/now-dammit/node_modules/@types/jest-diff/index.d.ts": [
+        "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
+        "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/dev/now-dammit/node_modules/@types/jest/index.d.ts": [
+        "c:/dev/now-dammit/node_modules/@types/jest-diff/index.d.ts",
+        "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
+        "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
@@ -4673,12 +4698,14 @@
       "c:/dev/now-dammit/node_modules/rxjs/index.d.ts",
       "c:/dev/now-dammit/node_modules/chokidar/types/index.d.ts",
       "c:/dev/now-dammit/node_modules/@types/shell-quote/index.d.ts",
+      "c:/dev/now-dammit/src/bootserver.ts",
       "c:/dev/now-dammit/src/spawnserver.ts",
       "c:/dev/now-dammit/src/createservermapping.ts",
       "c:/dev/now-dammit/src/main.ts",
       "c:/dev/now-dammit/bin/now-dammit.ts",
       "c:/dev/now-dammit/node_modules/@types/url-join/index.d.ts",
-      "c:/dev/now-dammit/src/bootserver.ts"
+      "c:/dev/now-dammit/node_modules/@types/jest-diff/index.d.ts",
+      "c:/dev/now-dammit/node_modules/@types/jest/index.d.ts"
     ]
   },
   "version": "3.5.3"
