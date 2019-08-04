@@ -1,131 +1,131 @@
 {
   "program": {
     "fileInfos": {
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es5.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es5.d.ts": {
         "version": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0",
         "signature": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.d.ts": {
         "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
         "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2016.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2016.d.ts": {
         "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
         "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.d.ts": {
         "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
         "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2018.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2018.d.ts": {
         "version": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843",
         "signature": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2019.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2019.d.ts": {
         "version": "0fc0f68d3f4d94aa65fab955592e4a9f2066e6f8ee2f66fcc45adf4037fc167b",
         "signature": "0fc0f68d3f4d94aa65fab955592e4a9f2066e6f8ee2f66fcc45adf4037fc167b"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.esnext.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.esnext.d.ts": {
         "version": "1c05c805f62c1c06a60b7812cd8de2dff7a5bda2218ce5edda5d9d298b1c48e1",
         "signature": "1c05c805f62c1c06a60b7812cd8de2dff7a5bda2218ce5edda5d9d298b1c48e1"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.core.d.ts": {
         "version": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52",
         "signature": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
         "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
         "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
         "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
         "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
         "version": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21",
         "signature": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
         "version": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2",
         "signature": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
         "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
         "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
         "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
         "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
         "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
         "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
         "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
         "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
         "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
         "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.object.d.ts": {
         "version": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4",
         "signature": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
         "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
         "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.string.d.ts": {
         "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
         "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
         "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
         "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
         "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
         "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
         "version": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4",
         "signature": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
         "version": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0",
         "signature": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
         "version": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62",
         "signature": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
         "version": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8",
         "signature": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2019.array.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2019.array.d.ts": {
         "version": "fc7c02b980e7dda0ed14d57ee71705c09efc51ec6286a10b971a25a3bb29262b",
         "signature": "fc7c02b980e7dda0ed14d57ee71705c09efc51ec6286a10b971a25a3bb29262b"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2019.object.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2019.object.d.ts": {
         "version": "989b95205f1189943fab0ce12a39c80570edf8f200aca60e0fdc500afc4d5859",
         "signature": "989b95205f1189943fab0ce12a39c80570edf8f200aca60e0fdc500afc4d5859"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2019.string.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2019.string.d.ts": {
         "version": "669427ac10ef9f52b6a7a502a66670eaabba675e0a660eb971041bd73c9894e3",
         "signature": "669427ac10ef9f52b6a7a502a66670eaabba675e0a660eb971041bd73c9894e3"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2019.symbol.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2019.symbol.d.ts": {
         "version": "7a842c21e0fe143eb3ad4d689a1470bab5ed9bc7fd7223fe8b56cbae27038d62",
         "signature": "7a842c21e0fe143eb3ad4d689a1470bab5ed9bc7fd7223fe8b56cbae27038d62"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
         "version": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8",
         "signature": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8"
       },
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.esnext.bigint.d.ts": {
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.esnext.bigint.d.ts": {
         "version": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8",
         "signature": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8"
       },
@@ -1058,19 +1058,19 @@
         "signature": "19cabdf0db9fbae32ad2ddca1b36c9265702091a2c1247846d0f63942a1806a5"
       },
       "c:/dev/now-dammit/src/bootserver.ts": {
-        "version": "75dd1a5d72bc95e250e252c2a4d62ce4d5bf7306b487b5f362834be9448b45b9",
+        "version": "fe6098b7b698c1b4b2d36d351fd9a045cf37b96279110b2b5092e2ca48eec070",
         "signature": "e7dc52822000e9b565df209fe591c00097433d11b1a02bac1768cca18a2c0307"
       },
       "c:/dev/now-dammit/src/spawnserver.ts": {
-        "version": "1d75ac7b109c8c2c581d46ce844209c2d57ac687ae31f3e51f25fae8690ef15c",
+        "version": "fe86e48fb9df4825630eb1a125e0974526b60008f079d5803c2b65a0bb26aaed",
         "signature": "0c77b0f272ed6ca807db8efbcc66adbc5b12708d81e475996db179d0fdea8274"
       },
       "c:/dev/now-dammit/src/createservermapping.ts": {
-        "version": "e8ba5ca8581016c48596f90eeed2ffee69e88422b4c80e80d0daf47a113717b2",
+        "version": "d599545ec0fc66cc16a8b4f97add0e4e8a40870780942fc23dc3e9a5a352e368",
         "signature": "ecdb52712c9c6ae4bb9e41d1e91b3e12f43e72dc75d4e3bbc4b6f4c3da1a1e3a"
       },
       "c:/dev/now-dammit/src/main.ts": {
-        "version": "8ce538895adc4224a098820be62ad936547a0e22b0de829756c87bc5a656eb7f",
+        "version": "6e3342f0d50d17b9f80ce71f8fe49e8d18b830c1c8c4699b043dc9eea6233507",
         "signature": "000ff4fd4f9aa63c3957ea1f548c5e2193b15fb9b369cfd865e30f03f3ba2def"
       },
       "c:/dev/now-dammit/bin/now-dammit.ts": {
@@ -1097,131 +1097,131 @@
       "configFilePath": "C:/dev/now-dammit/tsconfig.json"
     },
     "referencedMap": {
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es5.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es5.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2016.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2016.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2018.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2018.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2019.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2019.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.esnext.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.esnext.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.core.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.object.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.string.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2019.array.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2019.array.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2019.object.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2019.object.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2019.string.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2019.string.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2019.symbol.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2019.symbol.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2789,131 +2789,131 @@
       ]
     },
     "exportedModulesMap": {
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es5.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es5.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2016.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2016.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2018.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2018.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2019.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2019.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.esnext.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.esnext.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.core.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.object.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.string.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2019.array.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2019.array.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2019.object.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2019.object.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2019.string.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2019.string.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2019.symbol.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2019.symbol.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
         "c:/dev/now-dammit/node_modules/@types/node/util.d.ts",
         "c:/dev/now-dammit/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -4409,38 +4409,38 @@
       ]
     },
     "semanticDiagnosticsPerFile": [
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es5.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2016.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2018.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2019.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.esnext.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.core.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.collection.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.generator.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.promise.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.object.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.string.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.intl.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2018.intl.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2018.promise.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2019.array.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2019.object.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2019.string.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.es2019.symbol.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.esnext.intl.d.ts",
-      "c:/users/shavyg2/appdata/roaming/nvm/v12.5.0/node_modules/typescript/lib/lib.esnext.bigint.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es5.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2016.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2018.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2019.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.esnext.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2019.array.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2019.object.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2019.string.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.es2019.symbol.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "c:/users/shavyg2/appdata/roaming/nvm/v8.16.0/node_modules/typescript/lib/lib.esnext.bigint.d.ts",
       "c:/dev/now-dammit/node_modules/pkg-dir/index.d.ts",
       "c:/dev/now-dammit/node_modules/@types/node/globals.d.ts",
       "c:/dev/now-dammit/node_modules/@types/node/assert.d.ts",
@@ -4673,13 +4673,13 @@
       "c:/dev/now-dammit/node_modules/rxjs/index.d.ts",
       "c:/dev/now-dammit/node_modules/chokidar/types/index.d.ts",
       "c:/dev/now-dammit/node_modules/@types/shell-quote/index.d.ts",
-      "c:/dev/now-dammit/src/bootserver.ts",
       "c:/dev/now-dammit/src/spawnserver.ts",
       "c:/dev/now-dammit/src/createservermapping.ts",
       "c:/dev/now-dammit/src/main.ts",
       "c:/dev/now-dammit/bin/now-dammit.ts",
-      "c:/dev/now-dammit/node_modules/@types/url-join/index.d.ts"
+      "c:/dev/now-dammit/node_modules/@types/url-join/index.d.ts",
+      "c:/dev/now-dammit/src/bootserver.ts"
     ]
   },
-  "version": "3.5.2"
+  "version": "3.5.3"
 }

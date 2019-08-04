@@ -10,7 +10,7 @@ import {fromEvent} from "rxjs";
 import {debounceTime} from "rxjs/operators"
 
 export async function SpawnServer(server: ServerOptions, applicationDirectory: string, port: any,threadRef:{thread:child.ChildProcess}) {
-    console.log(server.cmd)
+
     let [command, ...args] = shell.parse(server.cmd) as string[];
     let status = "open";
 

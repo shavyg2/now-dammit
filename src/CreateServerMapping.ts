@@ -9,7 +9,7 @@ export  function CreateServerMapping(
   root,
   config: DammitConfig
 ): ServerMapping[] {
-  return config.servers.map(server => {
+  return (config.servers||[]).map(server => {
     let applicationDirectory = path.join(root, server.path);
     let port = server.port || getport();
     let url = `http://localhost:${port}`;

@@ -14,7 +14,7 @@ import isWindow from "is-windows";
 import { spawn, ChildProcess } from "child_process";
 export function BootServer(root:string, app, config: DammitConfig, refs: ServerMapping[]) {
     
-    let rules = config.rewrite.map(rule => {
+    let rules = (config.rewrite||[]).map(rule => {
         return CreateServerMappingTest(rule);
     });
 

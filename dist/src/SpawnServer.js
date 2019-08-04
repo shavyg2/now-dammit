@@ -60,11 +60,10 @@ function SpawnServer(server, applicationDirectory, port, threadRef) {
         return __generator(this, function (_b) {
             switch (_b.label) {
                 case 0:
-                    console.log(server.cmd);
                     _a = shell.parse(server.cmd), command = _a[0], args = _a.slice(1);
                     status = "open";
                     if (threadRef.thread && !threadRef.thread.killed) {
-                        threadRef.thread.kill();
+                        threadRef.thread.kill("SIGINT");
                     }
                     _b.label = 1;
                 case 1:

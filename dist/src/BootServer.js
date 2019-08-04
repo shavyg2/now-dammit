@@ -22,7 +22,7 @@ var quote = __importStar(require("shell-quote"));
 var is_windows_1 = __importDefault(require("is-windows"));
 var child_process_1 = require("child_process");
 function BootServer(root, app, config, refs) {
-    var rules = config.rewrite.map(function (rule) {
+    var rules = (config.rewrite || []).map(function (rule) {
         return CreateServerMappingTest_1.CreateServerMappingTest(rule);
     });
     if (config.watch) {

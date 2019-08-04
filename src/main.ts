@@ -9,7 +9,7 @@ import { BootLibCopy } from "./BootLibCopy";
 export function Main(){
     let root = pkg.sync();
     let dammitPath = path.join(root,"dammit.json");
-    let config:DammitConfig = require(dammitPath)
+    let config:DammitConfig = require(dammitPath);
     let serverMapping = CreateServerMapping(root,config);
 
     BootLibCopy(config);
